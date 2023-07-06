@@ -1,0 +1,11 @@
+.defaultImg{
+    width: 1100px;
+}
+
+.active{
+    background-color: blue;
+}
+
+.pointer{
+    cursor: pointer;
+}
